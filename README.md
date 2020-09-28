@@ -1,7 +1,6 @@
 # Rock Coast Modelling Lab
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdhurst1/Rock_Coast_Modelling_Lab/master?filepath=Rock_Coast_Modelling_Lab.ipynb)
-Click here to launch in binder 
 
 Interactive python notebook with a simple numerical model for rock coast development.
 
