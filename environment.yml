@@ -3,3 +3,5 @@ dependencies:
   - matplotlib
   - notebook=6.5.4
   - jupyterlab=3.6.1
+  - fonts-liberation  # Installs Liberation Sans and other Liberation fonts
+  - fontconfig  # Helps with font detection
