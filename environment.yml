@@ -1,3 +1,7 @@
+name: mybinder-env
+channels:
+  - conda-forge
+  - defaults
 dependencies:
   - numpy
   - matplotlib
