@@ -1,3 +1,5 @@
 dependencies:
   - numpy
   - matplotlib
+  - notebook=6.5.4
+  - jupyterlab=3.6.1
